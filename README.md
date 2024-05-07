@@ -8,13 +8,13 @@
 * [Questions](#questions)
 
 ## Description
-This Was a Note taking application that was created during my time at UC Berekley.
+This is a note-taking application that was created during my time at UC Berkeley.
 
 ## Installation
-To use this applications, you will need to download the compress zip files. Then in the file directory, you can run 'npm start' to launch the application.
+To use this application, download the compressed ZIP file and extract the contents. In the file directory, run `npm start` to launch the application.
 
 ## Usage
-This Web application was design to allow the user to take notes in the the web broweser.
+This web application is designed to allow the user to take notes directly in the web browser.
 
 ## Contributing Parties
 Jordan Lockhart (LinkedIn) -- [LinkedIn profile](https://www.linkedin.com/in/jordan-lockhart-6b14a7249/).
